@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'Sebastian ';
   test = 12333243243323;
+  tst2  = 'test';
 }
